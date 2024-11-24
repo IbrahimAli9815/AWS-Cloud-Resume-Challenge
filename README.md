@@ -10,6 +10,7 @@ This is my attempt at the Cloud Resume Challenge. It is a multiple-step resume p
 **Services Used**:
 
 - S3
+- Route53
 - AWS CloudFront
 - Certificate Manager
 - AWS Lambda
